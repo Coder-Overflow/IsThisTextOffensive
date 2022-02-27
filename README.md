@@ -16,7 +16,7 @@ Alternatively, if u need any web services please check out our [fiverr](https://
 - jquery
 
 ## How to run
-** Due to the large file size of the tensorflow model, we are unable to upload it on github, you would have to open up the ipynb file and execute all the code yourself before running the flask server **
+* Due to the large file size of the tensorflow model, we are unable to upload it on github, you would have to open up the ipynb file and execute all the code yourself before running the flask server *
 
 Make sure u have tensorflow, tensorflow_hub and flask installed. Then use
 ```
