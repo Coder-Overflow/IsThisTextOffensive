@@ -1,9 +1,10 @@
 # IsThisTextOffensive
-This is a machine learning project made to classify whether the text is offensive or not. We trained the model using tensorflow. In the future, this could be used for many things, such as to detect whether a post on social media is offensive or not and hopefully prevent cyberbullying.
+This is a machine learning project made to classify whether the text is offensive or not. 
+We trained the model using tensorflow. In the future, this could be used for many things, such as to detect whether a post on social media is offensive or not and hopefully prevent cyberbullying.
 
----
 
-If you liked our project, please support us by following us on [Instagram](https://www.instagram.com/coder_overflow/). Alternatively, if u need any web services please check our our [fiverr](https://www.fiverr.com/share/120ga0) gigs. Happy coding :)
+If you liked our project, please support us by following us on [Instagram](https://www.instagram.com/coder_overflow/). 
+Alternatively, if u need any web services please check our our [fiverr](https://www.fiverr.com/share/120ga0) gigs. Happy coding :)
 
 ## Technologies used
 - html
