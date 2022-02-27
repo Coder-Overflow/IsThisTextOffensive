@@ -16,7 +16,7 @@ Alternatively, if u need any web services please check our our [fiverr](https://
 - jquery
 
 ## How to run
-Make sure u have tensorflow and flask installed. Then use
+Make sure u have tensorflow, tensorflow_hub and flask installed. Then use
 ```
 python app.py
 ```
