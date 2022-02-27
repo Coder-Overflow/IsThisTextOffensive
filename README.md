@@ -4,7 +4,7 @@ We trained the model using tensorflow. In the future, this could be used for man
 
 
 If you liked our project, please support us by following us on [Instagram](https://www.instagram.com/coder_overflow/). <br/>
-Alternatively, if u need any web services please check our our [fiverr](https://www.fiverr.com/share/120ga0) gigs. Happy coding :)
+Alternatively, if u need any web services please check out our [fiverr](https://www.fiverr.com/share/120ga0) gigs. Happy coding :)
 
 ## Technologies used
 - html
